@@ -1,0 +1,65 @@
+.img-1 {
+    width: 800px;
+    height: 900px;
+}
+
+.letras-all {
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.magia {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.magia-1 {
+    text-align: center;
+}
+
+.flecha {
+    font-size: 50px;
+    color: aquamarine;
+}
+
+.img {
+    width: 1000px;
+}
+
+.p-2 {
+    color: azure;
+    text-align: center;
+    font-family: monospace;
+}
+
+#fondo {
+    background-image: url(https://68.media.tumblr.com/c6b77f8a2091557eb59e9e1f193ceceb/tumblr_nrjpypMLWV1tle0q1o1_500.gif);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#fondo-1 {
+    background-image: url(https://th.bing.com/th/id/R.24ff9ca0136d50f14ba06a3a96b59fab?rik=Nh9sM%2b%2bcuVA4Ew&pid=ImgRaw&r=0);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#fondo-2{
+    background-image: url(https://googifs.es/gif/2016/12/esfera-blanca-rotando-sobre-fondo-negro.gif);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+#fondo-3 {
+    background-color: black;
+}
+
+#titulo {
+    color: red;
+}
+
+#p-1 {
+    color: cornsilk;
+}
+
